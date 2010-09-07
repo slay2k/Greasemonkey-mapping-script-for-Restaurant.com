@@ -1,7 +1,9 @@
 Restaurant.com Mapper
 =====================
 
-A trivial effort to simplify Restaurant.com dining selection. Fetches addresses asynchronously.
+A trivial effort to simplify Restaurant.com dining selection.
+
+Fetches addresses asynchronously and plots a static map over the purchased certificate pages.
 
 Installation
 ------------
