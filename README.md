@@ -3,6 +3,11 @@ Restaurant.com Mapper
 
 A trivial effort to simplify Restaurant.com dining selection. Fetches addresses asynchronously.
 
+Installation
+------------
+1. Install Greasemonkey
+2. Drag script into browser
+
 Bugs
 ----
 * Zoom level pretty arbitrary
